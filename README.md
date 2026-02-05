@@ -6,14 +6,15 @@
 
   <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-715&theme=nord" alt="GitHub Radar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
 
 ### 💻 My Tech Universe
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,mysql,git,docker,unity,godot" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,mysql,git,docker,unity,godot&theme=dark" alt="Tecnologias" />
 </div>
 
 ---
