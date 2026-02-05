@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  🛠️ <b>Tecnologias e Ferramentas:</b><br><br>
+  🛠️ <b>Tecnologias e Ferramentas:</b><br><br><br>
   <img src="https://skillicons.dev/icons?i=java,py,js,cpp,vue,react,nodejs,mysql,git" alt="Minha Stack" />
 </p>
 
-<br><br>
+<br>
 
 ---
 
