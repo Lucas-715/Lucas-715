@@ -1,45 +1,49 @@
-<div align="center">
-  <h1>Olá, eu sou o Lucas Almeida 👋</h1>
-  <p><b>Engenheiro de Software em formação na UFC | Técnico em Informática pelo IFMA</b></p>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Pesquisador+de+Lógica+Computacional;Entusiasta+de+Vue.js+%26+Python" alt="Typing SVG" />
+# Olá, eu sou o Lucas Almeida! 👋
 
-  <br>
 
-  <a href="https://www.linkedin.com/in/lucas-almeida-5433a0330" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lucas.s.almeida715@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+**Estudante de Engenharia de Software na UFC | Técnico em Informática pelo IFMA**
+
+
+
+Sou apaixonado por resolver problemas complexos através de código limpo e lógica aplicada. Atualmente no 5º semestre da graduação, busco minha primeira oportunidade de estágio para aplicar minha experiência em desenvolvimento front-end e pesquisa em verificação formal.
+
+
+
+### 🛠 Tech Stack
+
+
+
+<div>
+
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
 </div>
 
----
 
-### 💻 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,nodejs,mysql,mongodb,git,html,css" alt="Minhas Tecnologias" />
-</div>
-
----
 
 ### 🚀 Projetos em Destaque
 
-* **NERDS (UFC):** Desenvolvimento Front-end em projetos de reengenharia utilizando **Vue.js 3**.
-* **Verificação Formal:** Pesquisa acadêmica sobre o problema do **Conjunto Dominante**, utilizando Lógica e Vampire Prover.
-* **Aprova UFC:** Monitoria de física para o ENEM, focando em comunicação e gestão.
+- **NERDS (UFC):** Atuação como Desenvolvedor Front-end em projetos de reengenharia de software utilizando Vue.js.
 
----
+- **Verificação Formal:** Pesquisa sobre o problema do **Conjunto Dominante em Grafos**, utilizando Lógica de Primeira Ordem e o provador de teoremas **Vampire**.
 
-### 📈 Estatísticas (GitHub Stats)
+- **Aprova UFC:** Monitoria e ensino de física para o ENEM, desenvolvendo competências de comunicação e gestão de prazos.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-</div>
 
----
 
-<div align="center">
-  <i>"A lógica é o começo de tudo, a criatividade é o que nos leva além."</i>
-</div>
+### 📫 Contato
+
+- **LinkedIn:** [linkedin.com/in/lucas-almeida-5433a0330](https://www.linkedin.com/in/lucas-almeida-5433a0330)
+
+- **Email:** lucas.s.almeida715@gmail.com
