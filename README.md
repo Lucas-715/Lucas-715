@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6400FF,100:00E5FF&height=200&section=header&text=Lucas%20Almeida&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <p>🚀 <b>Software Engineering @ UFC</b> | 💻 <b>Fullstack Developer</b></p>
+  <p>🚀 <b>Software Engineering Student @ UFC</b> | 💻 <b>Técnico em Informática (IFMA)</b></p>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Pesquisador+de+Lógica;Entusiasta+de+Vue.js+%26+Python" alt="Typing SVG" />
 </div>
@@ -11,20 +11,20 @@
 ### 🛠️ My Tech Universe
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,nodejs,mysql,mongodb,git,docker,html,css" alt="tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,nodejs,mysql,mongodb,git,docker,html,css,linux" alt="tecnologias" />
 </div>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-* **NERDS (UFC):** Dev Front-end em projetos de reengenharia utilizando **Vue.js 3**.
-* **Verificação Formal:** Pesquisa sobre o problema do **Conjunto Dominante**, utilizando Lógica e o provador **Vampire**.
-* **Aprova UFC:** Monitoria de física para o ENEM, com foco em gestão e comunicação.
+* **NERDS (UFC):** Atuação como Desenvolvedor Front-end utilizando **Vue.js 3**.
+* **Verificação Formal:** Pesquisa acadêmica sobre o problema do **Conjunto Dominante**, utilizando Lógica e Vampire Prover.
+* **Aprova UFC:** Monitoria e ensino de física para o ENEM, com foco em gestão e comunicação.
 
 ---
 
-### 📊 Análise de Código
+### 📊 Activity Dashboard (TokyoNight Theme)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-715&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
@@ -50,4 +50,8 @@
 </div>
 
 ---
-<p align="center"><i>"Transformando lógica em soluções de software eficientes."</i></p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6400FF,100:00E5FF&height=80&section=footer" width="100%" />
+  <p><i>"A lógica é o começo de tudo, a criatividade é o que nos leva além."</i></p>
+</div>
