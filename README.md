@@ -15,7 +15,6 @@
   <img src="https://skillicons.dev/icons?i=java,py,js,cpp,vue,react,nodejs,mysql,git" alt="Minha Stack" />
 </p>
 
-<br><br>
 
 ---
 
