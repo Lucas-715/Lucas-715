@@ -1,48 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lucas%20Almeida&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6400FF,100:00E5FF&height=220&section=header&text=Lucas%20Almeida&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <p>🚀 <b>Engenharia de Software @ UFC</b> | 💻 <b>Fullstack Developer</b></p>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Transformando+Lógica+em+Código;Pesquisador+de+Verificação+Formal;Dev+Vue.js+e+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Fullstack+em+Formação;Pesquisador+de+Lógica+Computacional;Apaixonado+por+resolver+problemas" />
+
+  <p>📍 <b>UFC - Campus Russas</b> | 🎓 <b>Técnico em Informática (IFMA)</b></p>
 </div>
 
 ---
 
-### 🛠️ My Digital Universe
+### 🚀 Sobre Mim
+
+Sou um entusiasta da tecnologia que busca unir o rigor da **Lógica Matemática** com a praticidade do desenvolvimento **Web Moderno**. Atualmente, divido meu tempo entre a reengenharia de software no projeto **NERDS (UFC)** e a exploração de sistemas inteligentes.
+
+---
+
+### 💻 Meu Universo Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,nodejs,mysql,mongodb,git,docker,html,css" alt="tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,nodejs,mysql,mongodb,git,docker,html,css" alt="Minhas Tecnologias" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake (3D Journey)
+### 🛠️ Projetos em Foco
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-715/Lucas-715/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucas-715/Lucas-715/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+* **NERDS (UFC):** Desenvolvimento de interfaces reativas com **Vue.js 3**.
+* **Verificação Formal:** Modelagem de grafos complexos utilizando **Lógica de Primeira Ordem**.
+* **Aprova UFC:** Gestão e monitoria voltada para o ensino de exatas.
 
 ---
 
-### 📊 Code Analysis (Hacker Theme)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=tokyonight" height="180" />
-</div>
-
----
-
-### 📫 Let's build something together?
+### 📈 Conexões e Estatísticas
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-almeida-5433a0330" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=tokyonight" height="170" />
 </div>
 
-<br>
-<p align="center"><i>"A lógica é o princípio da sabedoria, não o fim."</i></p>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6400FF,100:00E5FF&height=100&section=footer" width="100%" />
+  <p><i>"A lógica levará você de A a B. A imaginação levará você a qualquer lugar."</i></p>
+</div>
