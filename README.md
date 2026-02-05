@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6400FF,100:00E5FF&height=200&section=header&text=Lucas%20Almeida&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=200&section=header&text=Lucas%20Almeida&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <p>🚀 <b>Software Engineering Student @ UFC</b> | 💻 <b>Técnico em Informática (IFMA)</b></p>
   
@@ -24,14 +24,6 @@
 
 ---
 
-### 📊 Activity Dashboard (TokyoNight Theme)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-715&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
 ### 📫 Vamos nos conectar?
 
 <div align="center">
@@ -39,19 +31,19 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:lucas.s.almeida715@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=03045e&logoColor=white&style=for-the-badge" height="35" alt="Email" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase do dia" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Frase do dia" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6400FF,100:00E5FF&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=80&section=footer" width="100%" />
   <p><i>"A lógica é o começo de tudo, a criatividade é o que nos leva além."</i></p>
 </div>
