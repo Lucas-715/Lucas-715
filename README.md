@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Lucas Almeida ⚡</h1>
-  <p><b>Software Engineering Student @ UFC | 2D Game Enthusiast</b></p>
+  <p><b>Software Engineering Student @ UFC | Fullstack Developer</b></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=Software+Engineer;2D+Game+Developer;Hollow+Knight+Enjoyer+%E2%9A%94%EF%B8%8F;Chess+%26+DC+Fan+%E2%99%9E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Fullstack+Developer;Pesquisador+de+L%C3%B3gica;Vue.js+%7C+Python+%7C+Java" alt="Typing SVG" />
 
   <br>
 
@@ -21,14 +21,7 @@
 ### 🚀 Projetos e Pesquisa
 * **NERDS (UFC):** Dev Front-end em projetos de reengenharia com **Vue.js 3**.
 * **Verificação Formal:** Pesquisa em **Lógica Computacional** e Grafos.
-* **Indie Game Dev:** Desenvolvendo mecânicas 2D inspiradas em clássicos modernos.
-
----
-
-### 🎮 Além do Código
-* **Indie Games:** Fã ávido de **Hollow Knight** e da precisão técnica de **Celeste**.
-* **Xadrez:** Estrategista nas horas vagas (foco em aberturas e táticas).
-* **Universo DC:** Leitor de quadrinhos e entusiasta das histórias da Liga da Justiça.
+* **Game Dev:** Desenvolvimento de mecânicas e sistemas para jogos 2D.
 
 ---
 
