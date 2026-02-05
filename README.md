@@ -11,23 +11,11 @@
 </p>
 
 <p align="left">
-  🦄 <b>Linguagens:</b><br>
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,cpp" alt="Linguagens" />
-</p>
-
-<p align="left">
-  💼 <b>Ferramentas:</b><br>
-  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,mysql,git" alt="Ferramentas" />
+  🛠️ <b>Tecnologias e Ferramentas:</b><br>
+  <img src="https://skillicons.dev/icons?i=java,py,js,cpp,vue,react,nodejs,mysql,git" alt="Minha Stack" />
 </p>
 
 <br>
-
-### 📊 Estatísticas (Otimizadas)
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=transparent&hide_border=true&langs_count=6&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=transparent&hide=contribs,prs&hide_border=true&count_private=true&locale=pt-br" />
-</p>
 
 ---
 
@@ -39,7 +27,7 @@
 ---
 
 ### 🎮 Além do Código
-* **Indie Games:** Entusiasta de **Hollow Knight** ⚔️ e da precisão de **Celeste**.
+* **Indie Games:** Entusiasta de **Hollow Knight** ⚔️ e da precisão técnica de **Celeste**.
 * **Estratégia:** Praticante de **Xadrez** e fã do universo **DC Comics**.
 
 ---
@@ -48,9 +36,9 @@
 <p align="left">
   <a href="mailto:lucas.s.almeida715@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lucas-almeida-5433a0330">
+  <a href="https://www.linkedin.com/in/lucas-almeida-5433a0330" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/dev_lucasalmeida">
+  <a href="https://www.instagram.com/dev_lucasalmeida" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
