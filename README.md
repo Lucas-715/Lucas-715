@@ -18,15 +18,15 @@
 ---
 
 ### 🚀 Projetos e Pesquisa
-* **NERDS (UFC):** Dev Front-end em projetos de reengenharia com **Vue.js 3**.
+* **NERDS (UFC):** Fui Dev Front-end em projetos de reengenharia com **Vue.js 3**.
 * **Verificação Formal:** Pesquisa acadêmica utilizando Lógica de Primeira Ordem.
-* **Aprova UFC:** Monitoria e gestão de ensino de física.
+* **Aprova (UFC):** Monitorava e fazia gestão do ensino de física para alunos do 3º Ano de Ensino Médio.
 
 ---
 
 ### 🎮 Além do Código
-* **Indie Games:** Entusiasta de **Hollow Knight** ⚔️ e da precisão técnica de **Celeste**.
-* **Estratégia:** Praticante de **Xadrez** e fã do universo **DC Comics**.
+* **Indie Games:** Entusiasta de **Hollow Knight** ⚔️, da precisão técnica de **Celeste** e **Speedrunners**.
+* **Estratégia:** Entusiasta de **Xadrez** e fã do universo **DC Comics**.
 
 ---
 
