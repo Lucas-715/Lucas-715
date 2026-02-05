@@ -1,17 +1,22 @@
 <div align="center">
   <h1>Lucas Almeida ⚡</h1>
-  <p><b>Engenharia de Software (UFC) | Fullstack Developer</b></p>
-  
+  <p><b>Software Engineering Student @ UFC | Fullstack Developer</b></p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=Vue.js+%7C+Python+%7C+Java;Desenvolvedor+Fullstack;Engenheiro+de+Software;Pesquisador+de+L%C3%B3gica" alt="Typing SVG" />
+
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=120&section=header&text=Vue.js%20|%20Python%20|%20Java&fontSize=25&fontAlignY=35&animation=fadeIn" width="100%" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  </div>
 </div>
 
 ---
 
 ### 💻 My Tech Universe
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,mysql,git,docker,unity,godot" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,mysql,git,docker,unity,godot&theme=dark" alt="Tecnologias" />
 </div>
 
 ---
@@ -24,9 +29,9 @@
 ---
 
 ### 🎮 Além do Código
-* **Indie Games:** Fã de **Hollow Knight** e entusiasta de **Celeste**.
-* **Xadrez:** Estrategista e fã de táticas no tabuleiro.
-* **Universo DC:** Leitor assíduo de quadrinhos.
+* **Indie Games:** Fã ávido de **Hollow Knight** e entusiasta de **Celeste**.
+* **Xadrez:** Estrategista nas horas vagas.
+* **Universo DC:** Leitor de quadrinhos e fã das histórias da Liga da Justiça.
 
 ---
 
