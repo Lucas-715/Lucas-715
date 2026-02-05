@@ -16,16 +16,11 @@
 * **Verificação Formal:** Pesquisador sobre **Conjunto Dominante em Grafos** com o provador **Vampire**.
 * **Aprova UFC:** Monitoria de física para o ENEM (Comunicação e Gestão).
 
-### 📊 Minhas Skills em Números
+### 📊 Minhas Skills & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages card" />
-  <img src="https://github-profile-trophy.vercel.app?username=Lucas-715&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-</div>
-
-### 🐍 Snake Game (Minhas contribuições)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Lucas-715/Lucas-715/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=dracula" height="150" alt="languages card" />
 </div>
 
 ### 💬 Pensamento do Dia
