@@ -1,49 +1,58 @@
-<div align="center">
-  <h1>Lucas Almeida ⚡</h1>
-  <p><b>Software Engineering Student @ UFC | Fullstack Developer</b></p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=Vue.js+%7C+Python+%7C+Java;Desenvolvedor+Fullstack;Engenheiro+de+Software;Pesquisador+de+L%C3%B3gica" alt="Typing SVG" />
+<p align="left">
+  <h1>Olá, eu sou o Lucas Almeida ⚡</h1>
+  Engenheiro de Software em formação pela <b>UFC</b> e Técnico em Informática pelo <b>IFMA</b>.<br>
+  Atualmente focado em desenvolvimento Fullstack e apaixonado por criar experiências em <b>jogos 2D</b>.
+</p>
 
-  <br>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0077B6&center=false&vCenter=true&width=500&lines=Vue.js+%7C+Python+%7C+Java;2D+Game+Developer;Hollow+Knight+Enjoyer;Chess+Player+%E2%99%9E" />
+</p>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  </div>
-</div>
+<p align="left">
+  🦄 <b>Linguagens:</b><br>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,cpp" alt="Linguagens" />
+</p>
 
----
+<p align="left">
+  💼 <b>Ferramentas & Frameworks:</b><br>
+  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,mysql,mongodb,git,docker,unity,godot" alt="Ferramentas" />
+</p>
 
-### 💻 My Tech Universe
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,mysql,git,docker,unity,godot&theme=dark" alt="Tecnologias" />
-</div>
+<br>
 
----
+### 📊 GitHub Stats & Skills
 
-### 🚀 Projetos e Pesquisa
-* **NERDS (UFC):** Dev Front-end em projetos de reengenharia com **Vue.js 3**.
-* **Verificação Formal:** Pesquisa em **Lógica Computacional** e Grafos.
-* **Game Dev:** Desenvolvimento de mecânicas e sistemas para jogos 2D.
-
----
-
-### 🎮 Além do Código
-* **Indie Games:** Fã ávido de **Hollow Knight** e entusiasta de **Celeste**.
-* **Xadrez:** Estrategista nas horas vagas.
-* **Universo DC:** Leitor de quadrinhos e fã das histórias da Liga da Justiça.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&hide=contribs&hide_border=true&locale=pt-br" height="165px" />
+</p>
 
 ---
 
-### 📫 Contato
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-almeida-5433a0330" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+### 🎮 Além do Terminal
+* **Indie Games:** Fã de carteira assinada de **Hollow Knight** ⚔️ e da precisão de **Celeste**.
+* **Estratégia:** Praticante de **Xadrez** e fã do universo **DC Comics**.
+
+---
+
+<p align="left">
+  💌 <b>Vamos nos conectar?</b><br><br>
+  <a href="mailto:lucas.s.almeida715@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/dev_lucasalmeida" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/lucas-almeida-5433a0330" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:lucas.s.almeida715@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/dev_lucasalmeida" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</div>
+</p>
+
+<br>
+
+<p align="center">
+  <i>"No cost too great."</i>
+</p>
