@@ -7,15 +7,15 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077B6&center=false&vCenter=true&width=500&lines=Vue.js+%7C+Python+%7C+Java;Fullstack+Development;Software+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077B6&center=false&vCenter=true&width=500&lines=Fullstack+Development;Software+Engineering;Vue.js+%7C+Python+%7C+Java" />
 </p>
 
 <p align="left">
-  🛠️ <b>Tecnologias e Ferramentas:</b><br>
+  🛠️ <b>Tecnologias e Ferramentas:</b><br><br>
   <img src="https://skillicons.dev/icons?i=java,py,js,cpp,vue,react,nodejs,mysql,git" alt="Minha Stack" />
 </p>
 
-<br>
+<br><br>
 
 ---
 
@@ -45,5 +45,5 @@
 <br>
 
 <p align="center">
-  <i>"Nenhum custo é demasiado elevado."</i>
+  <i>"Nenhum custo é muito alto."</i>
 </p>
