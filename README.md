@@ -15,6 +15,8 @@
   <img src="https://skillicons.dev/icons?i=java,py,js,cpp,vue,react,nodejs,mysql,git" alt="Minha Stack" />
 </p>
 
+<br><br>
+
 ---
 
 ### 🚀 Projetos e Pesquisa
@@ -40,8 +42,6 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
-<br>
-
 <p align="center">
-  <i>"Nenhum custo é muito alto."</i>
+  <i>"Nenhum custo é demasiado elevado."</i>
 </p>
