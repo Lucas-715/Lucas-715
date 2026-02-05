@@ -1,49 +1,53 @@
-# Olá, eu sou o Lucas Almeida! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6400FF,100:00E5FF&height=200&section=header&text=Lucas%20Almeida&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-
-
-**Estudante de Engenharia de Software na UFC | Técnico em Informática pelo IFMA**
-
-
-
-Sou apaixonado por resolver problemas complexos através de código limpo e lógica aplicada. Atualmente no 5º semestre da graduação, busco minha primeira oportunidade de estágio para aplicar minha experiência em desenvolvimento front-end e pesquisa em verificação formal.
-
-
-
-### 🛠 Tech Stack
-
-
-
-<div>
-
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
+  <p>🚀 <b>Software Engineering Student @ UFC</b> | 💻 <b>Técnico em Informática (IFMA)</b></p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Pesquisador+de+Lógica;Entusiasta+de+Vue.js+%26+Python" alt="Typing SVG" />
 </div>
 
+---
 
+### 🛠️ My Tech Universe
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,nodejs,mysql,git,html,css,docker,linux" alt="tecnologias" />
+</div>
+
+---
 
 ### 🚀 Projetos em Destaque
 
-- **NERDS (UFC):** Atuação como Desenvolvedor Front-end em projetos de reengenharia de software utilizando Vue.js.
+* **NERDS (UFC):** Atuação como Dev Front-end utilizando **Vue.js 3**.
+* **Verificação Formal:** Pesquisa sobre o problema do **Conjunto Dominante** com Lógica de Primeira Ordem.
+* **Aprova UFC:** Monitoria e ensino de física, focando em gestão e comunicação.
 
-- **Verificação Formal:** Pesquisa sobre o problema do **Conjunto Dominante em Grafos**, utilizando Lógica de Primeira Ordem e o provador de teoremas **Vampire**.
+---
 
-- **Aprova UFC:** Monitoria e ensino de física para o ENEM, desenvolvendo competências de comunicação e gestão de prazos.
+### 📊 GitHub Stats (Hacker Style)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+</div>
 
+---
 
-### 📫 Contato
+### 📫 Vamos nos conectar?
 
-- **LinkedIn:** [linkedin.com/in/lucas-almeida-5433a0330](https://www.linkedin.com/in/lucas-almeida-5433a0330)
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-almeida-5433a0330" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:lucas.s.almeida715@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+</div>
 
-- **Email:** lucas.s.almeida715@gmail.com
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase do dia" />
+</div>
+
+---
+<p align="center"><i>"A lógica é o começo de tudo, a criatividade é o que nos leva além."</i></p>
