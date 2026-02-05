@@ -1,49 +1,39 @@
-# Olá, eu sou o Lucas Almeida! 👋
+<div align="center">
+  <h1>Lucas Almeida ⚡</h1>
+  <p><b>Software Engineering Student @ UFC | 2D Game Enthusiast</b></p>
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=Software+Engineer;2D+Game+Developer;Hollow+Knight+Enjoyer+%E2%9A%94%EF%B8%8F;Chess+%26+DC+Fan+%E2%99%9E" />
 
+  <br>
 
-**Estudante de Engenharia de Software na UFC | Técnico em Informática pelo IFMA**
-
-
-
-Sou apaixonado por resolver problemas complexos através de código limpo e lógica aplicada. Atualmente no 5º semestre da graduação, busco minha primeira oportunidade de estágio para aplicar minha experiência em desenvolvimento front-end e pesquisa em verificação formal.
-
-
-
-### 🛠 Tech Stack
-
-
-
-<div>
-
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-715&theme=nord" alt="GitHub Radar" />
 </div>
 
+---
 
+### 💻 My Tech Universe
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,js,vue,react,mysql,git,docker,unity,godot" alt="Tecnologias" />
+</div>
 
-### 🚀 Projetos em Destaque
+---
 
-- **NERDS (UFC):** Atuação como Desenvolvedor Front-end em projetos de reengenharia de software utilizando Vue.js.
+### 🚀 Projetos e Pesquisa
+* **NERDS (UFC):** Dev Front-end em projetos de reengenharia com **Vue.js 3**.
+* **Verificação Formal:** Pesquisa em **Lógica Computacional** e Grafos.
+* **Indie Game Dev:** Desenvolvendo mecânicas 2D inspiradas em clássicos modernos.
 
-- **Verificação Formal:** Pesquisa sobre o problema do **Conjunto Dominante em Grafos**, utilizando Lógica de Primeira Ordem e o provador de teoremas **Vampire**.
+---
 
-- **Aprova UFC:** Monitoria e ensino de física para o ENEM, desenvolvendo competências de comunicação e gestão de prazos.
+### 🎮 Além do Código
+* **Indie Games:** Fã ávido de **Hollow Knight** e da precisão técnica de **Celeste**.
+* **Xadrez:** Estrategista nas horas vagas (foco em aberturas e táticas).
+* **Universo DC:** Leitor de quadrinhos e entusiasta das histórias da Liga da Justiça.
 
+---
 
-
-### 📫 Contato
-
-- **LinkedIn:** [linkedin.com/in/lucas-almeida-5433a0330](https://www.linkedin.com/in/lucas-almeida-5433a0330)
-
-- **Email:** lucas.s.almeida715@gmail.com
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-almeida-5433a0330" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
