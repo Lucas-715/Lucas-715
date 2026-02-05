@@ -34,11 +34,19 @@ Sou um entusiasta da tecnologia que busca unir o rigor da **Lógica Matemática*
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-almeida-5433a0330" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=tokyonight" height="170" />
+  <a href="mailto:lucas.s.almeida715@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-715&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-715&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
